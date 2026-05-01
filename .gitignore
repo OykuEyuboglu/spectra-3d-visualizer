@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Screenshots (opsiyonel)
+# assets/screenshots/*.png
+
+# Demo large files (istersen)
+# assets/demo/*.mp4

@@ -1,0 +1,7 @@
+WIDTH = 900
+HEIGHT = 600
+FPS = 60
+
+WINDOW_TITLE = "Interactive PyOpenGL 3D Visualizer"
+
+DARK_BACKGROUND_COLOR = (0.015, 0.015, 0.025, 1.0)
