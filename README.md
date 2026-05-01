@@ -109,26 +109,26 @@ The rendering pipeline in `renderer.py` is stateless with respect to individual 
 
 ---
 
-## Planned Improvements
+## 📸 Screenshots
 
-- [ ] Physical refraction and light dispersion shaders
-- [ ] Post-processing bloom / HDR effects
-- [ ] Object interaction: drag, scale, multi-select
-- [ ] Scene serialization and save/load system
-- [ ] Built-in screen recording
+<p align="center">
+  <img src="assets/readme_img_video/visualizer_shape1.png" width="45%" />
+  <img src="assets/readme_img_video/visualizer_shape2.png" width="45%" />
+</p>
 
+<p align="center">
+  <img src="assets/readme_img_video/visualizer_shape3.png" width="45%" />
+  <img src="assets/readme_img_video/visualizer_shape4.png" width="45%" />
+</p>
 ---
 
-## Screenshots
+## 🎥 Demo
 
-![Visualizer Main View](assets/screenshots/visualizer_main.png)
+▶️ **YouTube Demo (Recommended)**  
+[Watch on YouTube](https://www.youtube.com/watch?v=6CYqQmSBlWE)
 
----
-
-## Demo
-
-[Watch demo video](assets/demo/demo.mp4)
-
+⬇️ **Download Video**  
+[Download Demo](assets/readme_img_video/demo.mp4)
 ---
 
 ## Author
