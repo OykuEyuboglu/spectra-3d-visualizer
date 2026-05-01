@@ -121,12 +121,11 @@ The rendering pipeline in `renderer.py` is stateless with respect to individual 
   <img src="assets/readme_img_video/visualizer_shape4.png" width="45%" />
 </p>
 ---
-
 ## 🎥 Demo
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
-    <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" width="70%" />
+  <a href="https://www.youtube.com/watch?v=6CYqQmSBlWE">
+    <img src="assets/readme_photos/demo_preview.png" width="70%" />
   </a>
 </p>
 
